@@ -1,0 +1,28 @@
+{
+    "materias": {
+        "Algoritmo e Programação II": {
+            "meta_horas": 3,
+            "meta_minutos": 30,
+            "tempo_total_minutos": 4,
+            "sessoes": [
+                {
+                    "data": "2026-01-29 20:04:56",
+                    "duracao_minutos": 4,
+                    "tipo": "cronometro"
+                }
+            ]
+        },
+        "Análise de dados aplicada": {
+            "meta_horas": 4,
+            "meta_minutos": 0,
+            "tempo_total_minutos": 1,
+            "sessoes": [
+                {
+                    "data": "2026-01-29 20:05:19",
+                    "duracao_minutos": 1,
+                    "tipo": "cronometro"
+                }
+            ]
+        }
+    }
+}
