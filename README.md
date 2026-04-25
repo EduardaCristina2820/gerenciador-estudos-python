@@ -4,7 +4,7 @@ Um sistema desenvolvido em Python para auxiliar estudantes no planejamento, acom
 
 ---
 
-## Informações sobre o projeto 
+## Descrição
 
 Este projeto foi criado com o objetivo de resolver um problema real: **organizar e monitorar o tempo de estudo de forma prática**.
 
@@ -43,41 +43,6 @@ ATENÇÃO - FUNCIONALIDADES EM DESENVOLVIMENTO:
 * Python 3
 * JSON
 * VS Code
-
----
-
-## Como Executar o Projeto
-
-1. Clone o repositório
-
-
-2. Acesse a pasta:
-
-```
-cd gerenciador-estudos-python
-```
-
-3. Execute o programa:
-
-```
-python main.py
-```
-
----
-
-## Estrutura do Projeto
-
-```
-gerenciador_estudos/
-│
-├── main.py
-├── dados.json
-└── modules/
-    ├── materias.py
-    ├── sessoes.py
-    ├── relatorios.py
-    └── armazenamento.py
-```
 
 ---
 
